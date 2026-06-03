@@ -61,5 +61,6 @@ To add components from these registries directly to your workspace, run the resp
 
 | Project / Target | Document Link | Focus Area | Status |
 |---|---|---|---|
-| **Lumen Liquid Metal Button** | [lumen_replication_document.md](lumen_replication_document.md) | WebGL shaders, 3D CSS layering, mouse speed interpolation | `Completed` |
+| **Lumen Liquid Metal Button Component** | [lumen_replication_document.md](lumen_replication_document.md) | WebGL shaders, 3D CSS layering, mouse speed interpolation | `Completed` |
+| **Lumen Creative Website Template** | [lumen_website_dissection.md](lumen_website_dissection.md) | Vite/React project structure, scroll-morphing OGL wave shader, GSAP slide pins & word-by-word highlights | `Completed` |
 | **React Bits Pro Agency Template** | [agency_template_dissection.md](agency_template_dissection.md) | WebGL shaders, 3D typography, scroll animations, sticky reveal footer | `Completed` |
