@@ -50,8 +50,6 @@ A centralized index listing all **36 Creative Developer Toolboxes** compiled in 
 
 | Library / Toolbox | Manual Link | Focus Area | Status |
 |---|---|---|---|
-| Library / Toolbox | Manual Link | Focus Area | Status |
-|---|---|---|---|
 | **Unlumen UI Engineering Manual** | [unlumen_ui_reverse_engineering.md](unlumen_ui_reverse_engineering.md) | WebGL attenuation & ripple formulas, spring-jump physics, proximity magnification, and trail velocity triggers | `Completed` |
 | **8bitcn Engineering Manual** | [8bitcn_ui_reverse_engineering.md](8bitcn_ui_reverse_engineering.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the 8bitcn library | `Completed` |
 | **Aliimam Engineering Manual** | [aliimam_reverse_engineering.md](aliimam_reverse_engineering.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Aliimam library | `Completed` |
@@ -73,7 +71,6 @@ A centralized index listing all **36 Creative Developer Toolboxes** compiled in 
 | **Globe_halo Engineering Manual** | [globe_halo_reverse_engineering.md](globe_halo_reverse_engineering.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Globe_halo library | `Completed` |
 | **Gsap Engineering Manual** | [gsap_reverse_engineering.md](gsap_reverse_engineering.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Gsap library | `Completed` |
 | **Iconiq Engineering Manual** | [iconiq_ui_reverse_engineering.md](iconiq_ui_reverse_engineering.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Iconiq library | `Completed` |
-| **Implementation_plan.md Engineering Manual** | [implementation_plan.md](implementation_plan.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Implementation_plan.md library | `Completed` |
 | **Jolyui Engineering Manual** | [jolyui_reverse_engineering.md](jolyui_reverse_engineering.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Jolyui library | `Completed` |
 | **Launch Engineering Manual** | [launch_ui_reverse_engineering.md](launch_ui_reverse_engineering.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Launch library | `Completed` |
 | **Loading Engineering Manual** | [loading_ui_reverse_engineering.md](loading_ui_reverse_engineering.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Loading library | `Completed` |
@@ -89,10 +86,7 @@ A centralized index listing all **36 Creative Developer Toolboxes** compiled in 
 | **Solace Engineering Manual** | [solace_ui_reverse_engineering.md](solace_ui_reverse_engineering.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Solace library | `Completed` |
 | **Spell Engineering Manual** | [spell_ui_reverse_engineering.md](spell_ui_reverse_engineering.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Spell library | `Completed` |
 | **Swup Engineering Manual** | [swup_reverse_engineering.md](swup_reverse_engineering.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Swup library | `Completed` |
-| **Task.md Engineering Manual** | [task.md](task.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Task.md library | `Completed` |
 | **Tool Engineering Manual** | [tool_ui_reverse_engineering.md](tool_ui_reverse_engineering.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Tool library | `Completed` |
-| **Unlumen Engineering Manual** | [unlumen_ui_reverse_engineering.md](unlumen_ui_reverse_engineering.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Unlumen library | `Completed` |
-| **Walkthrough.md Engineering Manual** | [walkthrough.md](walkthrough.md) | Kinetic structures, physics setups, WebGL routines, and animation states of the Walkthrough.md library | `Completed` |
 
 
 ---
