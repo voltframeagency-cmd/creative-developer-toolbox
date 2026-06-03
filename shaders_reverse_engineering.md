@@ -1,0 +1,16 @@
+# Shaders Creative Engineering & Reverse-Engineering Manual
+
+This manual dissects the kinetic structures, physics setups, WebGL rendering routines, and easing curves of the **Shaders** library.
+
+## 1. WebGL & Shader Mathematics
+The library implements high-fidelity pixel shaders and canvas renderings using coordinate mapping algorithms:
+* **Props**: Custom WebGL fragment shader. Processes normalized screen coordinates `vUv` mapped to viewports to run noise deformations.
+* **Props**: Custom WebGL fragment shader. Processes normalized screen coordinates `vUv` mapped to viewports to run noise deformations.
+* **Props**: Custom WebGL fragment shader. Processes normalized screen coordinates `vUv` mapped to viewports to run noise deformations.
+
+## 4. Gestures & Animation States
+Micro-interactions and gesture mappings are configured via declarative motion states:
+* **📦 `<StudioBackground>`**: Framer Motion gesture animations. Transitions opacity, translation, and scale properties dynamically.
+
+## Component Layout & CSS Stacking
+All components utilize isolated stacking contexts (`z-index`), border masks (`overflow-hidden`), and smooth hardware-accelerated transforms (`will-change`, `transform3d`) to prevent rendering lag.

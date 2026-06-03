@@ -1,6 +1,6 @@
-# Walkthrough.md Creative Engineering & Reverse-Engineering Manual
+# 8bitcn Creative Engineering & Reverse-Engineering Manual
 
-This manual dissects the kinetic structures, physics setups, WebGL rendering routines, and easing curves of the **Walkthrough.md** library.
+This manual dissects the kinetic structures, physics setups, WebGL rendering routines, and easing curves of the **8bitcn** library.
 
 ## 1. Component Styling & Visual Tokens
 This library relies on semantic design tokens, clean markup layers, and CSS transitions to govern its states.

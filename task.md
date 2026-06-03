@@ -1,6 +1,8 @@
-- `[ ]` Create destination folder `c:\Users\mahdi\Downloads\creative-developer-toolbox`
-- `[ ]` Copy all 36 `.md` reference guides and `index.md` from the brain folder
-- `[ ]` Parse files and convert absolute `file:///` links to clean relative links
-- `[ ]` Rename `index.md` to `README.md`
-- `[ ]` Initialize Git repository (`git init`), add files, and make initial commit
-- `[ ]` Verify files and relative link paths
+# Task.md Creative Engineering & Reverse-Engineering Manual
+
+This manual dissects the kinetic structures, physics setups, WebGL rendering routines, and easing curves of the **Task.md** library.
+
+## 1. Component Styling & Visual Tokens
+This library relies on semantic design tokens, clean markup layers, and CSS transitions to govern its states.
+## Component Layout & CSS Stacking
+All components utilize isolated stacking contexts (`z-index`), border masks (`overflow-hidden`), and smooth hardware-accelerated transforms (`will-change`, `transform3d`) to prevent rendering lag.
